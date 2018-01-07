@@ -1,0 +1,75 @@
+@charset "utf-8";
+/* DMS */
+
+
+
+/* Content */
+.one{
+	background-color: #1eacff;
+}
+.one .page-container{
+	position: absolute;
+	bottom: 0px;
+	margin-left: -400px;
+	left: 50%;
+	margin-bottom: 150px;
+	max-width: 650px;
+}
+
+.one .page-container h2{
+	font-size: 4em;
+	color: #fff;
+}
+
+.one .page-container p{
+	padding: 20px 0;
+	line-height: 1.5em;
+	color: #fff;
+}
+
+.two{
+	background-color:#1eacff;
+}
+
+.two .page-container{
+	position: absolute;
+	bottom: 0px;
+	margin-left: -400px;
+	left: 50%;
+	margin-bottom: 150px;
+	max-width: 650px;
+}
+
+.two .page-container h2{
+	font-size: 4em;
+	color: #fff;
+}
+.two .page-container h3{
+	padding: 0px 0;
+	line-height: 1.5em;
+	color: #fff;
+}
+
+.three{
+	background-color: #1eacff;
+}
+
+.three .page-container{
+	position: absolute;
+	bottom: 0px;
+	margin-left: -400px;
+	left: 50%;
+	margin-bottom: 150px;
+	max-width: 650px;
+}
+.three .page-container h2{
+	font-size: 4em;
+	color: #fff;
+}
+.three .page-container h3{
+	padding: 0px 0;
+	line-height: 1.5em;
+	color: #fff;
+
+}
+	
